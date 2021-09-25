@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pilambdagammarho
+- 👋 Hi, I’m Ragini Pant. 
 - 👀 I’m interested in Software Engineering, Machine Learning, Cloud Services, DevOps, Blockchain. 
 - 🌱 I’m currently using this platform to showcase my ideas, work and projects that I have done, and will do in future.
 - 💞️ I’m looking to collaborate on any project. 
